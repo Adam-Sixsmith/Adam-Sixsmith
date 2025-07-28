@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Adam Sixsmith</h1>
 <h3 align="center">I'm currently studying a Computing and IT degree with the Open University</h3>
 
-- 🔭 I’m currently working on **Building my knowledge in code**
+- 🔭 I’m currently working on **building my knowledge in code**
 
 - 🌱 I’m currently learning **Python and Java**
 
-- 👯 I’m looking to collaborate on **Anything where I could contribute**
+- 👯 I’m looking to collaborate on **anything where I could contribute**
 
-- 🤝 I’m looking for help with **Understanding which role will be best for me - Currently eyeing up roles in Web development, Software Development and Data Science!**
+- 🤝 I’m looking for help with **understanding which role will be best for me - Currently exploring opportunities roles in Web development, Software Development and Data Science!**
 
 - 📫 How to reach me **Any of my social media pages!**
 
